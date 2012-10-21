@@ -2,7 +2,7 @@
 
 GitlinxApp.controller('MainCtrl', function($scope) {
   $scope.awesomeThings = [
-    'HTML5 Boilerplate',
+    'Thing I changed',
     'AngularJS',
     'Testacular'
   ];
