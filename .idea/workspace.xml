@@ -20,17 +20,37 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/public/js/views/about.js">
+      <file leaf-file-name="HeaderView.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/public/tpl/HeaderView.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="2" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
+            <state line="3" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="-1.9615384">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/public/css/styles.css">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="7" selection-start="90" selection-end="90" vertical-scroll-proportion="0.43669724">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -38,13 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HeaderView.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/public/tpl/HeaderView.html">
+      <file leaf-file-name="AboutView.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/public/tpl/AboutView.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="2" selection-start="487" selection-end="487" vertical-scroll-proportion="-7.8461537">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,7 +71,9 @@
         <entry file="file://$PROJECT_DIR$/src/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="47" column="0" selection-start="1453" selection-end="1453" vertical-scroll-proportion="-11.769231">
-              <folding />
+              <folding>
+                <marker date="1351193709666" expanded="true" signature="1581:1696" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,15 +99,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/public/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="0" selection-start="1693" selection-end="1693" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="utils.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/public/js/utils.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,19 +108,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dashboard.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/public/dashboard.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeView.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="HomeView.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/public/tpl/HomeView.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="71" selection-start="315" selection-end="315" vertical-scroll-proportion="0.36956522">
+            <state line="11" column="71" selection-start="315" selection-end="315" vertical-scroll-proportion="-7.1923075">
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -135,6 +137,8 @@
         <option value="$PROJECT_DIR$/src/app.js" />
         <option value="$PROJECT_DIR$/src/public/index.html" />
         <option value="$PROJECT_DIR$/src/public/tpl/HomeView.html" />
+        <option value="$PROJECT_DIR$/src/public/tpl/HeaderView.html" />
+        <option value="$PROJECT_DIR$/src/.gitignore" />
       </list>
     </option>
   </component>
@@ -142,6 +146,25 @@
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -395,7 +418,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="reference.settings.ide.settings.file-colors" />
+    <property name="options.lastSelected" value="preferences.intentionPowerPack" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="restartRequiresConfirmation" value="true" />
@@ -448,6 +471,24 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f1bf1cc2-e637-432a-85b3-715083f54d70" name="Default" comment="" />
@@ -548,27 +589,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/app_tests.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.WebIde50/system/extLibs/nodejs-v0.8.9-src/core-modules-sources/lib/net.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="768" column="0" selection-start="18048" selection-end="18048" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.WebIde50/system/extLibs/nodejs-v0.8.9-src/core-modules-sources/lib/net.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="768" column="0" selection-start="18048" selection-end="18048" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/app_tests.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="2" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -577,13 +597,6 @@
     <entry file="file://$PROJECT_DIR$/src/serverwithanalytics.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="3" selection-start="1670" selection-end="1670" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/public/tpl/AboutView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -623,15 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/public/tpl/HeaderView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="487" selection-end="487" vertical-scroll-proportion="-7.8461537">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/public/js/views/header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -652,16 +656,55 @@
     <entry file="file://$PROJECT_DIR$/src/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="0" selection-start="1453" selection-end="1453" vertical-scroll-proportion="-11.769231">
-          <folding />
+          <folding>
+            <marker date="1351193709666" expanded="true" signature="1581:1696" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/public/tpl/HomeView.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="71" selection-start="315" selection-end="315" vertical-scroll-proportion="0.36956522">
+        <state line="11" column="71" selection-start="315" selection-end="315" vertical-scroll-proportion="-7.1923075">
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/tpl/AboutView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/tpl/HeaderView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="-1.9615384">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="7" selection-start="90" selection-end="90" vertical-scroll-proportion="0.43669724">
+          <folding />
         </state>
       </provider>
     </entry>
